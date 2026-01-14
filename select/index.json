@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Savior",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:32.760582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Savior Eyes",
+      "artist": "Modjo",
+      "has_synced": true,
+      "path": "select/01_Savior_Eyes_Modjo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Savior",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/02_Savior_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Savior",
+      "artist": "Defeater",
+      "has_synced": true,
+      "path": "select/03_No_Savior_Defeater.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gather 'round for Savior #2",
+      "artist": "The Frogs",
+      "has_synced": false,
+      "path": "select/04_Gather_'round_for_Savior__2_The_Frogs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Savior",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_Savior_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Iron Savior",
+      "artist": "Iron Savior",
+      "has_synced": true,
+      "path": "select/06_Iron_Savior_Iron_Savior.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Iron Savior (Live at Wacken Open Air 1998)",
+      "artist": "Iron Savior",
+      "has_synced": false,
+      "path": "select/07_Iron_Savior_(Live_at_Wacken_Open_Air_1998)_Iron_Savior.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Own Savior",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/08_My_Own_Savior_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Savior in the Clockwork",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/09_Savior_in_the_Clockwork_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Savior In The Clockwork",
+      "artist": "Tobias Sammet's Avantasia",
+      "has_synced": true,
+      "path": "select/10_Savior_In_The_Clockwork_Tobias_Sammet's_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soul Savior",
+      "artist": "Grave Digger",
+      "has_synced": false,
+      "path": "select/11_Soul_Savior_Grave_Digger.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Savior",
+      "artist": "Iron Savior",
+      "has_synced": true,
+      "path": "select/12_The_Savior_Iron_Savior.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Watcher in the Sky (Iron Savior version)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/13_Watcher_in_the_Sky_(Iron_Savior_version)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Watcher In The Sky (Iron Savior)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/14_Watcher_In_The_Sky_(Iron_Savior)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Savior In the Square",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/15_A_Savior_In_the_Square_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Savior and the Disease",
+      "artist": "Eternity X",
+      "has_synced": false,
+      "path": "select/16_The_Savior_and_the_Disease_Eternity_X.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Waiting for a Savior",
+      "artist": "Metal Church",
+      "has_synced": true,
+      "path": "select/17_Waiting_for_a_Savior_Metal_Church.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sad Savior",
+      "artist": "Taking Back Sunday",
+      "has_synced": true,
+      "path": "select/18_Sad_Savior_Taking_Back_Sunday.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Savior Breath",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/19_Savior_Breath_Foo_Fighters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Savior",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Savior_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
